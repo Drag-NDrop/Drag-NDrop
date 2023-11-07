@@ -21,7 +21,7 @@ My answers to "Who are you?"
 * And i like to create tools that empower them.
 * I want the code i write to be useful to somebody. I am done writing code, just for me.
 
-Ask me anything about Powershell. If i don't know the answer, odds are, that i do want to know it, 99.8%.
+Ask me anything about Powershell. If i don't know the answer, odds that i do want to know it, are 99.8%.
 
 Pronouns.. yeah.. i don't do pronouns. And I'm genuinely sorry, if i offend you by not doing that. 
 I guess i expected you to accept me to, for who i am.
