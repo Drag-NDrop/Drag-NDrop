@@ -8,6 +8,9 @@ Currently, the following programming/scripting languages has my interest:
 * C#
 * Bash
 * AngularJS
+* Dart
+*   Flutter
+*   ServerPod
 
 I'm involved with the OCIScripts community, which i really like to be a part of.
 Check out the OCISCripts repo to get an idea of it(Hint - you might learn there's free VM's in it for you).
