@@ -17,8 +17,6 @@ My answers to "Who are you?"
 * And i like to create tools that empower them.
 * I want the code i write to be useful to somebody.
 
-How to reach me..
-
 Fun fact: I'm not an actual viking.
 <!--
 **Drag-NDrop/Drag-NDrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
